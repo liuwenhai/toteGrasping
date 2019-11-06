@@ -20,6 +20,7 @@ This repository is the supplementary materials of the paper "GraspFusionNet: A t
 	<img src ="results/known/000148_depth.png" width="160" />
 	<img src ="results/known/000176_3d.png" width="160" />
 </p>
+
 ### Novel objects
 <p>
 	<img src ="results/novel/01_2d.png" width="160" />
@@ -43,18 +44,18 @@ Download links for our grasping dataset  can be found on our [toteGrasping](http
 ### Datasets Structure
 * toteGrasping
 	* toteGrasping/heightmap_color
-		* toteGrasping/heightmap_color/0.6d.png: color heightmap.
-  * toteGrasping/heightmap_depth
-		* toteGrasping/heightmap_depth/0.6d_combine.npy: xyz heightmap, in meter.
-  * toteGrasping/label_gPPN
-		* toteGrasping/label_gPPN/0.6d_bad|good.npy: good (x,y,1,angle,width,depth),angle:deg,width:mm,depth:meter/10000..
-  * toteGrasping/label_gRPN
-		* toteGrasping/label_gRPN/0.6d.png: pixel wise label, graspable or non-graspable.
-		* toteGrasping/label_gRPN/0.6d.npy: pixel wise label, angle,width,depth.
-  * toteGrasping/label_show
-		* toteGrasping/label_show/0.6d.png: original grasp label.
-  * toteGrasping/train-split.txt: traing data
-  * toteGrasping/test-split.txt:  test data
+		* toteGrasping/heightmap_color/%0.6d.png: color heightmap.
+  	* toteGrasping/heightmap_depth
+		* toteGrasping/heightmap_depth/%0.6d_combine.npy: xyz heightmap, in meter.
+  	* toteGrasping/label_gPPN
+		* toteGrasping/label_gPPN/%0.6d_bad|good.npy: good (x,y,1,angle,width,depth),angle:deg,width:mm,depth:meter/10000..
+  	* toteGrasping/label_gRPN
+		* toteGrasping/label_gRPN/%0.6d.png: pixel wise label, graspable or non-graspable.
+		* toteGrasping/label_gRPN/%0.6d.npy: pixel wise label, angle,width,depth.
+  	* toteGrasping/label_show
+		* toteGrasping/label_show/%0.6d.png: original grasp label.
+  	* toteGrasping/train-split.txt: traing data
+  	* toteGrasping/test-split.txt:  test data
 
 ## Contact
 If you have any questions, please let me know:  sjtu-wenhai[at]sjtu[dot]edu[dot]cn
