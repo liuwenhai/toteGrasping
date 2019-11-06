@@ -5,7 +5,7 @@ Dataset for robotic grasping in dense cluster
 This repository is the supplementary materials of the paper "GraspFusionNet: A two-stage grasp detection network for complete grasp parameters prediction based on fusion of RGB-XYZ heightmaps in dense cluster."[Video](https://www.youtube.com/watch?v=SsE5-FuK5jo) by Liu et al. In this repo, we provide  code of how to show grasp.
 
 ## Results
-Known objects
+### Known objects
 <p>
 	<img src ="results/known/000011_color.png" width="160" />
 	<img src ="results/known/000110_color.png" width="160" />
@@ -19,6 +19,21 @@ Known objects
 	<img src ="results/known/000135_3d.png" width="160" />
 	<img src ="results/known/000148_depth.png" width="160" />
 	<img src ="results/known/000176_3d.png" width="160" />
+</p>
+### Novel objects
+<p>
+	<img src ="results/novel/01_2d.png" width="160" />
+	<img src ="results/novel/02_2d.png" width="160" />
+	<img src ="results/novel/03_2d.png" width="160" />
+	<img src ="results/novel/04_2d.png" width="160" />
+	<img src ="results/novel/05_2d.png" width="160" />
+</p>
+<p>
+	<img src ="results/novel/01_3d.png" width="160" /> 
+	<img src ="results/novel/02_3d.png" width="160" />
+	<img src ="results/novel/03_3d.png" width="160" />
+	<img src ="results/novel/04_3d.png" width="160" />
+	<img src ="results/novel/05_3d.png" width="160" />
 </p>
 
 
