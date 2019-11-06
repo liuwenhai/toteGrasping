@@ -2,7 +2,7 @@
 Dataset for robotic grasping in dense cluster
 
 ## Overview
-This repository is the supplementary materials of the paper "GraspFusionNet: A two-stage grasp detection network for complete grasp parameters prediction based on fusion of RGB-XYZ heightmaps in dense cluster."[Video](https://www.youtube.com/watch?v=SsE5-FuK5jo) by Liu et al. In this repo, we provide  code of how to show grasp.
+This repository is the supplementary materials of the paper "GraspFusionNet: A two-stage grasp detection network for complete grasp parameters prediction based on fusion of RGB-XYZ heightmaps in dense cluster."[Video](https://youtu.be/aFGE-4iL2w8) by Liu et al. In this repo, we provide  code of how to show grasp.
 
 ## Results
 ### Known objects
@@ -39,7 +39,7 @@ This repository is the supplementary materials of the paper "GraspFusionNet: A t
 
 
 ## Datasets
-Download links for our grasping dataset  can be found on our [toteGrasping](http://vision.princeton.edu/projects/2017/arc/#datasets).
+Download links for our grasping dataset  can be found on our [toteGrasping](https://www.dropbox.com/sh/bi1link0bhoga5v/AABO4KXf7E1sjMASope9ay0za?dl=0).
 
 ### Datasets Structure
 * toteGrasping
