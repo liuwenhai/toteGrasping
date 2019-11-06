@@ -7,15 +7,20 @@ This repository is the supplementary materials of the paper "GraspFusionNet: A t
 ## Results
 Known objects
 <p>
-	<img src ="results/known/000011_3d.png" width="200" /> 
-	<img src ="results/known/000110_3d.png" width="200" />
-	<img src ="results/known/000135_3d.png" width="200" />
-</p>
-<p>
 	<img src ="results/known/000011_color.png" width="200" />
 	<img src ="results/known/000110_color.png" width="200" />
 	<img src ="results/known/000135_color.png" width="200" />
+	<img src ="results/known/000148_color.png" width="200" />
+	<img src ="results/known/000176_color.png" width="200" />
 </p>
+<p>
+	<img src ="results/known/000011_3d.png" width="200" /> 
+	<img src ="results/known/000110_3d.png" width="200" />
+	<img src ="results/known/000135_3d.png" width="200" />
+	<img src ="results/known/000148_depth.png" width="200" />
+	<img src ="results/known/000176_3d.png" width="200" />
+</p>
+
 
 ## Datasets
 Download links for our grasping dataset  can be found on our [toteGrasping](http://vision.princeton.edu/projects/2017/arc/#datasets).
